@@ -1,0 +1,26 @@
+.navbar{
+    background-color: orange;
+    padding: 10px;
+  }
+  .left{
+    text-decoration: none;
+    color: rgb(6, 6, 6);
+  }
+  .items{
+    text-decoration: none;
+    color: rgb(6, 6, 6);
+    padding: 5px;
+  }
+
+  
+  
+  .items:hover{
+    background-color: black;
+    color: white;
+  }
+  
+  .right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
